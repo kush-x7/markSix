@@ -148,17 +148,23 @@ button:active{
 }
 
 .right img{
-    width: 90%;
-    
+    width: 85%;
     
     position: absolute;
     bottom: 0;
+    left: 3rem;
+    
 }
 
 
 @media (max-width: 1000px){
     html{
         font-size: 42.5%;
+    }
+
+    .right img {
+        width: 80%;
+        left: 4.4rem;
     }
 }
 

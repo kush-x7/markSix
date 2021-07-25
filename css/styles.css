@@ -90,6 +90,7 @@ textarea {
 
     box-shadow: inset var(--shadow);
     border-radius: 25px;
+    border: none;
 }
 
 /* how to change color of svg */
